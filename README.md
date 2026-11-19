@@ -5,8 +5,7 @@
 
   <p>Local Cybersecurity Learning Platform</p>
 </div>
-# Didban
-### Local Cybersecurity Learning Platform
+
 
 ![Didban Dashboard](docs/images/dashboard.png)
 
