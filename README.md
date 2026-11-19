@@ -69,7 +69,7 @@ This level includes demonstrations related to cookie and session security, helpi
 - Understanding the relationship between XSS and session compromise.
 
 **Supported Inputs:**
-- ["<input id="comment-name" type="text" placeholder="Your display name" maxlength="40" required="">"]
+- input section of name in the comments
 
 ### 3. Hard Level
 
