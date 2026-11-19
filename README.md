@@ -54,7 +54,7 @@ Users can experiment with basic input fields and observe how unsanitized user in
 - Observing browser-side behavior.
 
 **Supported Inputs:**
-- [<textarea id="comment-text" placeholder="Write your comment..." maxlength="500" required=""></textarea>]
+- ["<textarea id="comment-text" placeholder="Write your comment..." maxlength="500" required=""></textarea>"]
 
 ### 2. Normal Level
 
@@ -69,7 +69,7 @@ This level includes demonstrations related to cookie and session security, helpi
 - Understanding the relationship between XSS and session compromise.
 
 **Supported Inputs:**
-- [<input id="comment-name" type="text" placeholder="Your display name" maxlength="40" required="">]
+- ["<input id="comment-name" type="text" placeholder="Your display name" maxlength="40" required="">"]
 
 ### 3. Hard Level
 
